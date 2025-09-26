@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nulijiazaizhong&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![知乎](https://img.shields.io/badge/blog-GoodNiight_An-green)](https://blog-goodnightan.top)
+[![博客](https://img.shields.io/badge/blog-GoodNiight_An-green)](https://bloggoodnightan.com)
 [![youtube](https://img.shields.io/badge/video-bilibili-red)](https://space.bilibili.com/525984002?spm_id_from=333.1007.0.0)
 
 ![modern cpp](https://img.shields.io/badge/code-copy-blue)
@@ -14,4 +14,4 @@
 
 </div>
 
-![头像](https://github.com/nulijiazaizhong/nulijiazaizhong/blob/main/image/2.jpg)
+![头像](https://github.com/nulijiazaizhong/nulijiazaizhong/blob/main/image/2.webp)
