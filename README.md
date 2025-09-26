@@ -15,6 +15,3 @@
 </div>
 
 ![头像](https://github.com/nulijiazaizhong/nulijiazaizhong/blob/main/image/2.jpg)
-
-![Visitor Count](https://profile-counter.glitch.me/nulijiazaizhong/count.svg)
-
