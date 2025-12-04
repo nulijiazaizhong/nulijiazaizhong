@@ -2,7 +2,9 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats-three-eta-82.vercel.app/api?username=nulijiazaizhong&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+![Anurag's GitHub stats](https://github-status-vercel.goodnightan.com/api?username=nulijiazaizhong&show_icons=true&theme=tokyonight)]
+
+![GitHub账户最常用语言](https://github-status-vercel.goodnightan.com/api/top-langs/?username=nulijiazaizhong&amp;layout=compact&amp;theme=tokyonight)
 
 [![博客](https://img.shields.io/badge/blog-GoodNiight_An-green)](https://blog.goodnightan.com)
 [![bilibili](https://img.shields.io/badge/video-bilibili-red)](https://space.bilibili.com/525984002)
